@@ -9,8 +9,11 @@ Building a blockchain-based ledger system, complete with a user-freiendly web in
 The sections of this project are as follows:
 
 Step 1 - Create a new Record data class.
+
 Step 2 - Modify the existing Block data class to store Record data
+
 Step 3 - Add relevant user inputs to the Streamlit application interface.
+
 Step 4 - Test the Pychain ledger by storing records. Demonstrate the functionality of the tool.
 
 # Test the PyChain ledger by storing records
