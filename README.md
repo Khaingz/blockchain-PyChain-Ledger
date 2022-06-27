@@ -15,11 +15,12 @@ Step 4 - Test the Pychain ledger by storing records. Demonstrate the functionali
 
 # Test the PyChain ledger by storing records
 
-The following screenshots demonstrates the application working with multiple stored blocks in the leder, as well as verifying the integrity of the ledger. Utilizing the Block inspector Drop-down Menu on the left of the application, the user can view specific block contents and 
+The following screenshots demonstrates the application working with multiple stored blocks in the leder, as well as verifying the integrity of the ledger. Utilizing the Block inspector Drop-down Menu on the left of the application, the user can view specific block contents and terminal validation.
 
 # Screenshots
 
-![alt text](https://github.com/)
+- Pychain Ledger Transaction Screenshot with drop down list
+![alt text](https://github.com/Khaingz/blockchain-PyChain-Ledger/blob/main/Pychain%20Ledger%20Transaction%20Screenshot%20with%20drop%20down%20list.png)
 
 
 
@@ -27,8 +28,17 @@ The following screenshots demonstrates the application working with multiple sto
 
 
 
-![alt text](https://github.com/)
+- Pychain Ledger Transaction Screenshot
+![alt text](https://github.com/Khaingz/blockchain-PyChain-Ledger/blob/main/Pychain%20Ledger%20Transaction%20Screenshot.png)
 
+
+
+
+
+
+
+- Pychain terminal validation
+![alt text](https://github.com/Khaingz/blockchain-PyChain-Ledger/blob/main/Pychain%20terminal%20validation.png)
 
 
 
